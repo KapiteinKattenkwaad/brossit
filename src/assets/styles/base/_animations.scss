@@ -137,13 +137,13 @@
 
 @keyframes moveInCenter {
      0% {
-         opacity: .7;
-         transform: scale(0.99) translate(57px, 86px);
+         opacity: .1;
+         transform: scale(0.4) translate(-50%, -50%);
      }
 
      100% {
          opacity: 1;
-         transform: scale(1) translate(57px, 86px);
+         transform: scale(1) translate(-50%, -50%);
      }
  }
 
