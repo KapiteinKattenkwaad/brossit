@@ -11,6 +11,10 @@
             <Nav></Nav>
         <Header></Header>
         <Wat></Wat>
+        <Hoe></Hoe>
+        <Wie></Wie>
+        <Waarom></Waarom>
+        <Made></Made>
             <Footer></Footer>
         </div>
 
@@ -22,6 +26,10 @@
   import Nav from './../components/Nav';
   import Header from './../components/Header';
   import Wat from './../components/Wat';
+  import Hoe from './../components/Hoe';
+  import Wie from './../components/Wie';
+  import Waarom from './../components/Waarom';
+  import Made from './../components/MadeBy';
   import Footer from './../components/Footer';
 
   export default {
@@ -40,6 +48,10 @@
       Nav,
       Header,
       Wat,
+      Hoe,
+      Wie,
+      Waarom,
+      Made,
       Footer
 
     },
